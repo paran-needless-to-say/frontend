@@ -1,9 +1,9 @@
-import { useState } from "react";
+import HomePage from "./pages/Home";
 
 function App() {
   return (
     <>
-      <div>말해뭐해</div>
+      <HomePage />
     </>
   );
 }
